@@ -1,0 +1,74 @@
+{
+  "menuItems": [
+    {
+      "id": 1,
+      "name": "Jollof Rice",
+      "description": "Delicious Nigerian Jollof rice served with fried chicken.",
+      "price": 25,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFUEvb9YoH-mHKsB7e7lCLO6wZ6Cq8nrFKM29DbjLNlA&s"
+    },
+    {
+      "id": 2,
+      "name": "Pounded Yam and Egusi",
+      "description": "Pounded yam served with rich Egusi soup.",
+      "price": 30,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGtzQfOg2DKY53xiYdsn0mrLBFiSDRrx6ZpGir0ANRW82t2QzTPj4piTY&s"
+    },
+    {
+      "id": 3,
+      "name": "Suya",
+      "description": "Spicy Nigerian street food skewers made with beef or chicken.",
+      "price": 20,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBcqd49LP9E0Tu7eIkaOJ9zHmQDJnso4GMIA&s"
+    },
+    {
+      "id": 4,
+      "name": "Fried Plantains",
+      "description": "Sweet, crispy fried plantains, also known as dodo.",
+      "price": 10,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyFAUgteOStume9xkUqHuNz6m7CJEMEUagNg&s"
+    },
+    {
+      "id": 5,
+      "name": "Moi Moi",
+      "description": "Steamed bean pudding made with ground beans, spices, and fish or eggs.",
+      "price": 15,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyFAUgteOStume9xkUqHuNz6m7CJEMEUagNg&s"
+    },
+    {
+      "id": 6,
+      "name": "Efo Riro",
+      "description": "A rich vegetable soup made with spinach, peppers, and assorted meats.",
+      "price": 25,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGtzQfOg2DKY53xiYdsn0mrLBFiSDRrx6ZpGir0ANRW82t2QzTPj4piTY&s"
+    },
+    {
+      "id": 7,
+      "name": "Ofada Rice and Ayamase Sauce",
+      "description": "Local Nigerian rice served with spicy Ayamase sauce.",
+      "price": 30,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBcqd49LP9E0Tu7eIkaOJ9zHmQDJnso4GMIA&s"
+    },
+    {
+      "id": 8,
+      "name": "Nkwobi",
+      "description": "A spicy cow foot delicacy often enjoyed as a side dish.",
+      "price": 20,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGtzQfOg2DKY53xiYdsn0mrLBFiSDRrx6ZpGir0ANRW82t2QzTPj4piTY&s"
+    },
+    {
+      "id": 9,
+      "name": "Akara",
+      "description": "Fried bean cakes, a popular Nigerian breakfast option.",
+      "price": 10,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBcqd49LP9E0Tu7eIkaOJ9zHmQDJnso4GMIA&s"
+    },
+    {
+      "id": 10,
+      "name": "Pepper Soup",
+      "description": "A hot and spicy soup with assorted meats or fish.",
+      "price": 20,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFUEvb9YoH-mHKsB7e7lCLO6wZ6Cq8nrFKM29DbjLNlA&s"
+    }
+  ]
+}
